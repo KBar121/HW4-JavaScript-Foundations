@@ -1,5 +1,2 @@
-# HW4-JavaScript-Foundations
+Host: https://kbar121.github.io/HW4-JavaScript-Foundations/
 
-Host: 
-
-JavaScript Foundations Coding Assignment (HW4)
